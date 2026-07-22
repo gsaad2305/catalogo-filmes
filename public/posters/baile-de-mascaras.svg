@@ -1,0 +1,25 @@
+<svg viewBox="0 0 400 600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Pôster de BAILE DE MÁSCARAS">
+  <defs>
+    <linearGradient id="bg-baile-de-mascaras" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3B1F1B" />
+      <stop offset="100%" stop-color="#0F1113" />
+    </linearGradient>
+    <linearGradient id="sweep-baile-de-mascaras" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.08" />
+      <stop offset="45%" stop-color="#ffffff" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="600" fill="url(#bg-baile-de-mascaras)" />
+  <rect width="400" height="600" fill="url(#sweep-baile-de-mascaras)" />
+  <path d="M150 190 q50 -40 100 0 v70 q-50 40 -100 0 z" fill="none" stroke="#E7B23C" stroke-width="2" opacity="0.55" />
+        <line x1="150" y1="190" x2="150" y2="260" stroke="#E7B23C" stroke-width="2" opacity="0.4"/>
+        <line x1="250" y1="190" x2="250" y2="260" stroke="#E7B23C" stroke-width="2" opacity="0.4"/>
+  <rect x="0" y="0" width="400" height="600" fill="none" stroke="#E7B23C" stroke-opacity="0.25" stroke-width="6" />
+  <rect x="6" y="24" width="14" height="20" rx="3" fill="#000" opacity="0.55" /><rect x="6" y="60" width="14" height="20" rx="3" fill="#000" opacity="0.55" /><rect x="6" y="96" width="14" height="20" rx="3" fill="#000" opacity="0.55" /><rect x="6" y="132" width="14" height="20" rx="3" fill="#000" opacity="0.55" /><rect x="6" y="168" width="14" height="20" rx="3" fill="#000" opacity="0.55" /><rect x="6" y="204" width="14" height="20" rx="3" fill="#000" opacity="0.55" /><rect x="6" y="240" width="14" height="20" rx="3" fill="#000" opacity="0.55" /><rect x="6" y="276" width="14" height="20" rx="3" fill="#000" opacity="0.55" /><rect x="6" y="312" width="14" height="20" rx="3" fill="#000" opacity="0.55" /><rect x="6" y="348" width="14" height="20" rx="3" fill="#000" opacity="0.55" /><rect x="6" y="384" width="14" height="20" rx="3" fill="#000" opacity="0.55" /><rect x="6" y="420" width="14" height="20" rx="3" fill="#000" opacity="0.55" /><rect x="6" y="456" width="14" height="20" rx="3" fill="#000" opacity="0.55" /><rect x="6" y="492" width="14" height="20" rx="3" fill="#000" opacity="0.55" /><rect x="6" y="528" width="14" height="20" rx="3" fill="#000" opacity="0.55" /><rect x="6" y="564" width="14" height="20" rx="3" fill="#000" opacity="0.55" />
+  <rect x="380" y="24" width="14" height="20" rx="3" fill="#000" opacity="0.55" /><rect x="380" y="60" width="14" height="20" rx="3" fill="#000" opacity="0.55" /><rect x="380" y="96" width="14" height="20" rx="3" fill="#000" opacity="0.55" /><rect x="380" y="132" width="14" height="20" rx="3" fill="#000" opacity="0.55" /><rect x="380" y="168" width="14" height="20" rx="3" fill="#000" opacity="0.55" /><rect x="380" y="204" width="14" height="20" rx="3" fill="#000" opacity="0.55" /><rect x="380" y="240" width="14" height="20" rx="3" fill="#000" opacity="0.55" /><rect x="380" y="276" width="14" height="20" rx="3" fill="#000" opacity="0.55" /><rect x="380" y="312" width="14" height="20" rx="3" fill="#000" opacity="0.55" /><rect x="380" y="348" width="14" height="20" rx="3" fill="#000" opacity="0.55" /><rect x="380" y="384" width="14" height="20" rx="3" fill="#000" opacity="0.55" /><rect x="380" y="420" width="14" height="20" rx="3" fill="#000" opacity="0.55" /><rect x="380" y="456" width="14" height="20" rx="3" fill="#000" opacity="0.55" /><rect x="380" y="492" width="14" height="20" rx="3" fill="#000" opacity="0.55" /><rect x="380" y="528" width="14" height="20" rx="3" fill="#000" opacity="0.55" /><rect x="380" y="564" width="14" height="20" rx="3" fill="#000" opacity="0.55" />
+  <rect x="0" y="410" width="400" height="190" fill="#0B0E14" opacity="0.55" />
+  <line x1="30" y1="418" x2="370" y2="418" stroke="#E7B23C" stroke-width="1" opacity="0.6" stroke-dasharray="2 6" />
+  <text x="200" y="455" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="26" letter-spacing="1" fill="#F5F3EC">BAILE DE</text>
+    <text x="200" y="485" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="26" letter-spacing="1" fill="#F5F3EC">MÁSCARAS</text>
+  <text x="200" y="560" text-anchor="middle" font-family="'Courier New', monospace" font-size="15" letter-spacing="3" fill="#E7B23C">2015 · DRAMA</text>
+</svg>

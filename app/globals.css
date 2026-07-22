@@ -1,0 +1,72 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-display: "Bebas Neue", "Arial Narrow", "Arial", sans-serif;
+  --font-body: "Inter", "Segoe UI", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", "Courier New", monospace;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #0b0e14;
+  color: #f5f3ec;
+  font-family: var(--font-body);
+}
+
+.film-grain-bg {
+  background-color: #0b0e14;
+  background-image: radial-gradient(
+    circle at 1px 1px,
+    rgba(245, 243, 236, 0.035) 1px,
+    transparent 0
+  );
+  background-size: 14px 14px;
+}
+
+.ticket-perforation {
+  position: relative;
+}
+
+.ticket-perforation::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background-image: radial-gradient(
+    circle,
+    #0b0e14 2.5px,
+    transparent 2.6px
+  );
+  background-size: 16px 100%;
+  background-position: 6px center;
+  background-repeat: repeat-x;
+}
+
+::selection {
+  background-color: #e7b23c;
+  color: #0b0e14;
+}
+
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible {
+  outline: 2px solid #e7b23c;
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

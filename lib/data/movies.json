@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "titulo": "The Matrix",
+      "ano": 1999,
+      "genero": "Ficção Científica",
+      "diretor": "Lana Wachowski, Lilly Wachowski",
+      "duracao": "2h 16min",
+      "avaliacao": 8.7,
+      "imdbID": "tt0133093",
+      "imagem": "",
+      "sinopse": "Um jovem programador descobre que o mundo em que vive é uma simulação criada por computadores."
+    },
+    {
+      "id": 2,
+      "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+      "ano": 2001,
+      "genero": "Fantasia",
+      "diretor": "Peter Jackson",
+      "duracao": "2h 58min",
+      "avaliacao": 8.9,
+      "imdbID": "tt0120737",
+      "imagem": "",
+      "sinopse": "Um hobbit recebe a missão de destruir um anel mágico de grande poder para salvar o mundo."
+    },
+    {
+      "id": 3,
+      "titulo": "Interestelar",
+      "ano": 2014,
+      "genero": "Ficção Científica",
+      "diretor": "Christopher Nolan",
+      "duracao": "2h 49min",
+      "avaliacao": 8.7,
+      "imdbID": "tt0816692",
+      "imagem": "",
+      "sinopse": "Uma equipe de exploradores viaja através de um buraco negro para garantir a sobrevivência da humanidade."
+    },
+    {
+      "id": 4,
+      "titulo": "O Rei Leão",
+      "ano": 1994,
+      "genero": "Animação",
+      "diretor": "Roger Allers, Rob Minkoff",
+      "duracao": "1h 28min",
+      "avaliacao": 8.5,
+      "imdbID": "tt0110357",
+      "imagem": "",
+      "sinopse": "Um jovem leão enfrenta desafios para assumir seu lugar como rei da savana."
+    },
+    {
+      "id": 5,
+      "titulo": "Clube da Luta",
+      "ano": 1999,
+      "genero": "Drama",
+      "diretor": "David Fincher",
+      "duracao": "2h 19min",
+      "avaliacao": 8.8,
+      "imdbID": "tt0137523",
+      "imagem": "",
+      "sinopse": "Um homem insone cria um clube clandestino que muda completamente sua vida."
+    },
+    {
+      "id": 6,
+      "titulo": "A Origem",
+      "ano": 2010,
+      "genero": "Ficção Científica",
+      "diretor": "Christopher Nolan",
+      "duracao": "2h 28min",
+      "avaliacao": 8.8,
+      "imdbID": "tt1375666",
+      "imagem": "",
+      "sinopse": "Um especialista em invadir sonhos recebe a missão de implantar uma ideia na mente de um alvo."
+    },
+    {
+      "id": 7,
+      "titulo": "Divertida Mente",
+      "ano": 2015,
+      "genero": "Animação",
+      "diretor": "Pete Docter",
+      "duracao": "1h 35min",
+      "avaliacao": 8.1,
+      "imdbID": "tt2096673",
+      "imagem": "",
+      "sinopse": "As emoções de uma garota precisam aprender a trabalhar juntas durante uma grande mudança."
+    },
+    {
+      "id": 8,
+      "titulo": "Coringa",
+      "ano": 2019,
+      "genero": "Drama",
+      "diretor": "Todd Phillips",
+      "duracao": "2h 02min",
+      "avaliacao": 8.4,
+      "imdbID": "tt7286456",
+      "imagem": "",
+      "sinopse": "Um comediante fracassado se transforma no famoso vilão de Gotham."
+    },
+    {
+      "id": 9,
+      "titulo": "Vingadores: Ultimato",
+      "ano": 2019,
+      "genero": "Ação",
+      "diretor": "Anthony Russo, Joe Russo",
+      "duracao": "3h 01min",
+      "avaliacao": 8.4,
+      "imdbID": "tt4154796",
+      "imagem": "",
+      "sinopse": "Os Vingadores unem forças para restaurar o universo após os eventos causados por Thanos."
+    },
+    {
+      "id": 10,
+      "titulo": "Parasita",
+      "ano": 2019,
+      "genero": "Drama",
+      "diretor": "Bong Joon-ho",
+      "duracao": "2h 12min",
+      "avaliacao": 8.5,
+      "imdbID": "tt6751668",
+      "imagem": "",
+      "sinopse": "Uma família pobre se infiltra na casa de uma família rica, gerando consequências inesperadas."
+    }
+  ]
